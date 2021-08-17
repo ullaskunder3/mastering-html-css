@@ -71,7 +71,7 @@ There are several different way to specify color in css:
 - HSLA value
 - Hexadecimal value
 
-### Class Keyword
+### Color Keyword
 
 There are predefined color keyword in css like `red`, `blue`, `green`, `darkgray / darkgrey`, ...
 
