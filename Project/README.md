@@ -2,7 +2,7 @@
 
 |  #  | Projects                                                                                    | Live Demo                                                                         |
 | :-: | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Responsive Profile Card](https://github.com/ullaskunder3/mastering-html-css/Project/card)  | [Live Demo](https://github.com/ullaskunder3/mastering-html-css/Project/card/)
+| 01  | [Responsive Profile Card](https://github.com/ullaskunder3/mastering-html-css/tree/main/Project/card)  | [Live Demo](https://github.com/ullaskunder3/mastering-html-css/tree/main/Project/card/)
 
 **NOTE ON PULL REQUESTS**: While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes
 
