@@ -19,7 +19,7 @@ Lets learn the concepts of HTML (the Hypertext Markup Language) and CSS (Cascadi
 - Tables
 - Canvas
 
-### CSS [README](./HTML/README.md)
+### CSS [README](./CSS/README.md)
 
 - css (syntax, types)
 - Properties and Value
